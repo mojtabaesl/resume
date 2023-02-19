@@ -3,7 +3,6 @@
     display:flex;
     gap:10px;
   }
-  
 </style>
 
 ![header](./assets/resume-dark.png#gh-dark-mode-only)
@@ -11,21 +10,21 @@
 
 <br>
 
-<p>👨🏻‍💻 I'm a front-end developer, with 5+ years of experience in designing and implementing modern web applications and working with many teams, consisting of electronic and software engineers in different fields such as IoT. I have also studied Full-Stack Development and gained TypeScript, Prisma, GraphQl, and UI design skills with highly adept at both independent and collaborative projects, with an emphasis on web application development.
-</p>
-<br>
-
-<div class="group">
-  <img src="./assets/icons/briefcase-02.svg" />
-  <h2 style="margin-top:9px;">WORK EXPERIENCE</h2>
-</div>
+👨🏻‍💻 I'm a front-end developer, with 5+ years of experience in designing and implementing modern web applications and working with many teams, consisting of electronic and software engineers in different fields such as IoT. I have also studied Full-Stack Development and gained TypeScript, Prisma, GraphQl, and UI design skills with highly adept at both independent and collaborative projects, with an emphasis on web application development.
 
 <br>
+<br>
 
-<div class="group">
-  <img src="./assets/icons/magic-wand-01.svg" />
-  <h2 style="margin-top:9px;">SKILLS</h2>
-</div>
+![experience](./assets/icons/briefcase-02.svg)
+
+## WORK EXPERIENCE
+
+<br>
+<br>
+
+![skills](./assets/icons/magic-wand-01.svg)
+
+## SKILLS
 
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
@@ -55,21 +54,22 @@
 ![Bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=Bash&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 
 <br>
+<br>
 
-<div class="group">
-  <img src="./assets/icons/graduation-hat-02.svg" />
-  <h2 style="margin-top:9px;">EDUCATION</h2>
-</div>
+![education](./assets/icons/graduation-hat-02.svg)
+
+## EDUCATION
+
 FROM 2012 TO 2017<br>
 <strong>BENG. Information technology</strong><br>
 PN University, Gorgan, Iran
 
 <br>
+<br>
 
-<div class="group">
-  <img src="./assets/icons/book-closed.svg" />
-  <h2 style="margin-top:9px;">LANGUAGES</h2>
-</div>
+![languages](./assets/icons/book-closed.svg)
+
+## LANGUAGES
 
 <ul>
   <li>English (Work proficient)</li>
