@@ -1,10 +1,3 @@
-<style>
-  .group {
-    display:flex;
-    gap:10px;
-  }
-</style>
-
 ![header](./assets/resume-dark.png#gh-dark-mode-only)
 ![header](./assets/resume-light.png#gh-light-mode-only)
 
