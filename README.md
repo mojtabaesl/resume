@@ -12,6 +12,50 @@
 
 ## WORK EXPERIENCE
 
+**Fullstacks** - Iran | Front-end developer | AUG 2021 - PRESENT <br>
+
+Front-end stack: `Typescript`, `React`, `React Location`, `Apollo Client`, `Mantine`, `Vite` <br>
+Back-end stack: Typescript, NestJs, Apollo Server, Prisma<br>
+UI: Figma
+
+At Fullstacks, I’ve been working on a dashboard for a charity. This project includes multiple teams around the world (Remote) that work based on Agile methodology.
+
+- Time to write component tests reduced by ~10% by applying MVP and CQS principles.
+- Ui Design process time improved by ~50% by making user flows.
+- Reduced project maintenance costs by adding type-safety, unit tests, and CI workflow.
+- Automated visual regression testing flow and UI review by integrating Storybook, Chromatic, and GitHub Actions.
+
+<br>
+
+<div align="center">
+
+![separator](./assets/icons/separator.svg)
+
+</div>
+
+<br>
+
+**Fullstacks** - Iran | Front-end developer | AUG 2021 - PRESENT <br>
+
+Front-end stack: Typescript, React, React Location, Apollo Client, Mantine, Vite <br>
+Back-end stack: Typescript, NestJs, Apollo Server, Prisma<br>
+UI: Figma
+
+At Fullstacks, I’ve been working on a dashboard for a charity. This project includes multiple teams around the world (Remote) that work based on Agile methodology.
+
+- Time to write component tests reduced by ~10% by applying MVP and CQS principles.
+- Ui Design process time improved by ~50% by making user flows.
+- Reduced project maintenance costs by adding type-safety, unit tests, and CI workflow.
+- Automated visual regression testing flow and UI review by integrating Storybook, Chromatic, and GitHub Actions.
+
+<br>
+
+<div align="center">
+
+![separator](./assets/icons/separator.svg)
+
+</div>
+
 <br>
 <br>
 
