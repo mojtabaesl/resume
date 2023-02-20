@@ -25,7 +25,7 @@ At Fullstacks, I’ve been working on a dashboard for a charity. This project in
 - Reduced project maintenance costs by adding type-safety, unit tests, and CI workflow.
 - Automated visual regression testing flow and UI review by integrating Storybook, Chromatic, and GitHub Actions.
 
-<br>
+[Checkout Materials](./projects/fullstacks.md)
 
 <div align="center">
 
@@ -47,7 +47,7 @@ At SFGCO, I was a member of a highly motivated and skilled team of software and 
 - Designed and implemented real-time monitoring and administration platform.
 - Improved data transmission reliability between low-end devices and cloud services by ~49.5% in case of connection failure by introducing a multi-queue algorithm.
 
-<br>
+[Checkout Materials](./projects/smartsept.md)
 
 <div align="center">
 
