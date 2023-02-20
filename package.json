@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "![header](./assets/resume-dark.png#gh-dark-mode-only) ![header](./assets/resume-light.png#gh-light-mode-only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "spell-check": "cspell lint '*.md'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojtabaesl/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojtabaesl/resume/issues"
+  },
+  "homepage": "https://github.com/mojtabaesl/resume#readme",
+  "devDependencies": {
+    "cspell": "^6.26.3",
+    "husky": "^8.0.0"
+  }
+}
