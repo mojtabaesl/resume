@@ -20,11 +20,11 @@
 ## SKILLS
 
 - **Languages:** `JS`, `TS`
-- **Tools:** `Git`, `VIM`, `Yarn/NPM`
 - **Front-end:** `React`, `Gatsby`, `Apollo`, `Webpack`,`Gulp`, `Apollo Client`, `Storybook`, `Vite`
 - **Back-end:** `Node.JS`, `Express`, `Nexus`, `Prisma`, `Graphql`, `MongoDB`
 - **Test:** `Jest`, `Chromatic`, `Vitest`, `react-testing-library`
 - **DevOps:** `Docker`, `Docker Compose`, `Nginx`, `Github Actions`
+- **Tools:** `Git`, `VIM`, `Yarn/NPM`
 - **OS:** `GNU/Linux`
 
 <br>
