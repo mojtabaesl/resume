@@ -12,11 +12,11 @@
 
 ## WORK EXPERIENCE
 
-**Fullstacks** - Iran | Front-end developer | AUG 2021 - PRESENT <br>
+**Fullstacks** - Iran | Front-end developer | AUG 2021 - PRESENT
 
 Front-end stack: `Typescript`, `React`, `React Location`, `Apollo Client`, `Mantine`, `Vite` <br>
-Back-end stack: Typescript, NestJs, Apollo Server, Prisma<br>
-UI: Figma
+Back-end stack: `Typescript`, `NestJs`, `Apollo Server`, `Prisma`<br>
+UI: `Figma`
 
 At Fullstacks, I’ve been working on a dashboard for a charity. This project includes multiple teams around the world (Remote) that work based on Agile methodology.
 
@@ -35,18 +35,17 @@ At Fullstacks, I’ve been working on a dashboard for a charity. This project in
 
 <br>
 
-**Fullstacks** - Iran | Front-end developer | AUG 2021 - PRESENT <br>
+**SFGCO** - Iran | Fullstack developer | OCT 2019 - MAY 2021 (1 year and 7 months)
 
-Front-end stack: Typescript, React, React Location, Apollo Client, Mantine, Vite <br>
-Back-end stack: Typescript, NestJs, Apollo Server, Prisma<br>
-UI: Figma
+Front-end stack: `Typescript`, `React`, `Apollo Client`, `Theme-UI`, `Docker`, `Webpack`<br>
+Back-end stack: `Typescript`, `NodeJS`, `Apollo Server`, `PostgreSQL`, `Prisma`, `Nexus`<br>
+UI: `Figma`
 
-At Fullstacks, I’ve been working on a dashboard for a charity. This project includes multiple teams around the world (Remote) that work based on Agile methodology.
+At SFGCO, I was a member of a highly motivated and skilled team of software and electronic engineers in a B2B IoT project called SmartSept that provides hand hygiene solutions for thousands of customers.
 
-- Time to write component tests reduced by ~10% by applying MVP and CQS principles.
-- Ui Design process time improved by ~50% by making user flows.
-- Reduced project maintenance costs by adding type-safety, unit tests, and CI workflow.
-- Automated visual regression testing flow and UI review by integrating Storybook, Chromatic, and GitHub Actions.
+- First-time user experience Enhanced by using UX principles.
+- Designed and implemented real-time monitoring and administration platform.
+- Improved data transmission reliability between low-end devices and cloud services by ~49.5% in case of connection failure by introducing a multi-queue algorithm.
 
 <br>
 
@@ -55,6 +54,17 @@ At Fullstacks, I’ve been working on a dashboard for a charity. This project in
 ![separator](./assets/icons/separator.svg)
 
 </div>
+
+<br>
+
+**Dropp** - Iran | Front-end developer | JAN 2017 - SEP 2019 (2 years and 8 months)
+
+Front-end stack: `Typescript`, `Angular 2`, `Bootstrap`, `NodeJS`, `EJS`, `Gulp`
+
+Dropp was mobility as a service provider. There, I was working on a dashboard for customer services that were written in the Angular framework.
+
+- Large scale of data handed and visualized.
+- High responsive and safe dashboard implemented.
 
 <br>
 <br>
