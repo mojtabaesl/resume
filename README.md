@@ -76,12 +76,13 @@ Dropp was mobility as a service provider. There, I was working on a dashboard fo
 ## SKILLS
 
 - **Languages:** `JS`, `TS`
-- **Front-end:** `React`, `Gatsby`, `Apollo`, `Webpack`,`Gulp`, `Apollo Client`, `Storybook`, `Vite`
-- **Back-end:** `Node.JS`, `Express`, `Nexus`, `Prisma`, `Graphql`, `MongoDB`
-- **Test:** `Jest`, `Chromatic`, `Vitest`, `react-testing-library`
+- **Front-end:** `React`, `Gatsby`, `Apollo`, `Webpack`, `Gulp`, `Apollo Client`, `Storybook`, `Vite`, `CSS-in-JS`, `React Location`
+- **Back-end:** `NodeJS`, `Express`, `Nexus`, `Prisma`, `Graphql`, `MongoDB`
+- **Test:** `Jest`, `Chromatic`, `react-testing-library`
 - **DevOps:** `Docker`, `Docker Compose`, `Nginx`, `Github Actions`
 - **Tools:** `Git`, `VIM`, `Yarn/NPM`
 - **OS:** `GNU/Linux`
+- **UI:** `Figma`, `Mantine`
 
 <br>
 <br>
